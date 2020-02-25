@@ -1,0 +1,16 @@
+C:\Users\Victor\Desktop\APIUser\APIUser\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Victor\Desktop\APIUser\APIUser\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Victor\Desktop\APIUser\APIUser\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Victor\Desktop\APIUser\APIUser\bin\Debug\netcoreapp2.1\APIUser.deps.json
+C:\Users\Victor\Desktop\APIUser\APIUser\bin\Debug\netcoreapp2.1\APIUser.runtimeconfig.json
+C:\Users\Victor\Desktop\APIUser\APIUser\bin\Debug\netcoreapp2.1\APIUser.runtimeconfig.dev.json
+C:\Users\Victor\Desktop\APIUser\APIUser\bin\Debug\netcoreapp2.1\APIUser.dll
+C:\Users\Victor\Desktop\APIUser\APIUser\obj\Debug\netcoreapp2.1\APIUser.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\APIUser\APIUser\obj\Debug\netcoreapp2.1\APIUser.RazorAssemblyInfo.cache
+C:\Users\Victor\Desktop\APIUser\APIUser\obj\Debug\netcoreapp2.1\APIUser.RazorAssemblyInfo.cs
+C:\Users\Victor\Desktop\APIUser\APIUser\obj\Debug\netcoreapp2.1\APIUser.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\APIUser\APIUser\obj\Debug\netcoreapp2.1\APIUser.AssemblyInfo.cs
+C:\Users\Victor\Desktop\APIUser\APIUser\obj\Debug\netcoreapp2.1\APIUser.RazorTargetAssemblyInfo.cache
+C:\Users\Victor\Desktop\APIUser\APIUser\bin\Debug\netcoreapp2.1\APIUser.pdb
+C:\Users\Victor\Desktop\APIUser\APIUser\obj\Debug\netcoreapp2.1\APIUser.dll
+C:\Users\Victor\Desktop\APIUser\APIUser\obj\Debug\netcoreapp2.1\APIUser.pdb

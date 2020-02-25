@@ -1,0 +1,130 @@
+{
+	"info": {
+		"_postman_id": "45d2fae1-9d27-45a8-8d74-a002beb76a8f",
+		"name": "APIUserRequests",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "APIUser",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\t\"Name\": \"Víctor\",\r\n\t\"LastName\": \"Viller\",\r\n\t\"Address\": \"Calle 222\"\r\n}"
+				},
+				"url": {
+					"raw": "localhost:52161/api/user",
+					"host": [
+						"localhost"
+					],
+					"port": "52161",
+					"path": [
+						"api",
+						"user"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:52161/api/user/4",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:52161/api/user/4",
+					"host": [
+						"localhost"
+					],
+					"port": "52161",
+					"path": [
+						"api",
+						"user",
+						"4"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:52161/api/user/all",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:52161/api/user/all",
+					"host": [
+						"localhost"
+					],
+					"port": "52161",
+					"path": [
+						"api",
+						"user",
+						"all"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:52161/api/user",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\t\"id\": \"4\",\r\n\t\"Name\": \"Víctor\",\r\n\t\"LastName\": \"Viller\",\r\n\t\"Address\": \"Calle 555\"\r\n}"
+				},
+				"url": {
+					"raw": "localhost:52161/api/user",
+					"host": [
+						"localhost"
+					],
+					"port": "52161",
+					"path": [
+						"api",
+						"user"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:52161/api/user/4",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "localhost:52161/api/user/4",
+					"host": [
+						"localhost"
+					],
+					"port": "52161",
+					"path": [
+						"api",
+						"user",
+						"4"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
